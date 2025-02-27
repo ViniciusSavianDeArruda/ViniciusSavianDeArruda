@@ -5,21 +5,7 @@
 Me chamo Vinicius Arruda, sou natural do Rio Grande do Sul, atualmente estou cursando Sistemas de Informaceos na UFN, e estou no terceiro semestre, ja tive contato na area da programacao por volta de 2020, mas foi fazendo cursos online so, mas em 2024 que me apronfundei e percebi que queria fazer faculdade, tive contato na area de informatica basica, ja traballhei com ferramentas de escritorio como: Word, Excel (avancado) entre outras.
 Gosto de resolver problemas, aprender com desafios e trabalhar em equipe. Meu objetivo é ganhar experiência prática, contribuir para projetos reais e crescer profissionalmente no mundo da tecnologia!"
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
+
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
