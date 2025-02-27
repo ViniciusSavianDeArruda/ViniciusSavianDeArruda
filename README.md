@@ -12,8 +12,8 @@ Gosto de resolver problemas, aprender com desafios e trabalhar em equipe. Meu ob
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
-    style="padding-right: 20px;" 
+    width="50px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
