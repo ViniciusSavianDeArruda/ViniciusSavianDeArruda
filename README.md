@@ -1,28 +1,10 @@
-# 👩🏻‍💻 Vinicius Arruda
+#  Vinicius Arruda
 
 **`Desenvolver froent-And(inicio de carreira)`**
 
 Me chamo Vinicius Arruda, sou natural do Rio Grande do Sul, atualmente estou cursando Sistemas de Informaceos na UFN, e estou no terceiro semestre, ja tive contato na area da programacao por volta de 2020, mas foi fazendo cursos online so, mas em 2024 que me apronfundei e percebi que queria fazer faculdade, tive contato na area de informatica basica, ja traballhei com ferramentas de escritorio como: Word, Excel (avancado) entre outras.
 Gosto de resolver problemas, aprender com desafios e trabalhar em equipe. Meu objetivo é ganhar experiência prática, contribuir para projetos reais e crescer profissionalmente no mundo da tecnologia!"
 
-
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -50,14 +32,7 @@ Gosto de resolver problemas, aprender com desafios e trabalhar em equipe. Meu ob
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="React"
