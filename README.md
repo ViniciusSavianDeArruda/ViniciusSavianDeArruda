@@ -2,7 +2,7 @@
 
 **`Desenvolver froent-And(inicio de carreira)`**
 
-Me chamo Vinicius Arruda, sou natural do Rio Grande do Sul, atualmente estou cursando Sistemas de Informaceos na UFN, e estou no terceiro semestre, ja tive contato na area da programacao por volta de 2020, mas foi fazendo cursos online so, mas em 2024 que me apronfundei e percebi que queria fazer faculdade, tive contato na area de informatica basica, ja traballhei com ferramentas de escritorio como: Word, Excel (avancado) entre outras.
+Eu me chamo Vinicius Arruda, sou natural do Rio Grande do Sul, atualmente estou cursando Sistemas de Informaceos na UFN, e estou no terceiro semestre, ja tive contato na area da programacao por volta de 2020, mas foi fazendo cursos online so, mas em 2024 que me apronfundei e percebi que queria fazer faculdade, tive contato na area de informatica basica, ja traballhei com ferramentas de escritorio como: Word, Excel (avancado) entre outras.
 Gosto de resolver problemas, aprender com desafios e trabalhar em equipe. Meu objetivo é ganhar experiência prática, contribuir para projetos reais e crescer profissionalmente no mundo da tecnologia!
 
 
