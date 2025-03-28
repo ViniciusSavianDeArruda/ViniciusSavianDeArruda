@@ -2,7 +2,7 @@
 
 **`Desenvolver froent-And`**
 
-Me chamo Vinicius Arruda, sou natural do Rio Grande do Sul e estou no terceiro semestre de Sistemas de Informação na UFN. Meu primeiro contato com programação foi em 2022, através de cursos online, e em 2024 decidi me aprofundar na área, o que me levou a ingressar na faculdade. Tenho experiência com informática básica e ferramentas de escritório, como Word e Excel (avançado). Sou curioso, gosto de aprender coisas novas e me adaptar a diferentes desafios. Meu objetivo é adquirir experiência prática, participar de projetos reais e evoluir profissionalmente na área de tecnologia.
+Me chamo Vinicius Arruda, sou natural do Rio Grande do Sul e estou no terceiro semestre de Sistemas de Informação na UFN. Meu primeiro contato com programação foi em 2022, através de cursos online, e em 2024 decidi me aprofundar na área, o que me levou a ingressar na faculdade. Tenho experiência com informática básica e ferramentas de escritório, como Word e Excel. Sou curioso, gosto de aprender coisas novas e me adaptar a diferentes desafios. Meu objetivo é adquirir experiência prática, participar de projetos reais e evoluir profissionalmente na área de tecnologia.
 
 ### 🤖 Linguagens e Tecnologias
 
