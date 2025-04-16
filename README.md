@@ -2,9 +2,14 @@
 
 **`Desenvolver Web`**
 
-Me chamo Vinicius Arruda, sou natural do Rio Grande do Sul e estou no terceiro semestre de Sistemas de Informação na UFN. Meu primeiro contato com programação foi em 2022, através de cursos online, e em 2024 decidi me aprofundar na área, o que me levou a ingressar na faculdade. Tenho experiência com informática básica e ferramentas de escritório, como Word e Excel. Sou curioso, gosto de aprender coisas novas e me adaptar a diferentes desafios. Meu objetivo é adquirir experiência prática, participar de projetos reais e evoluir profissionalmente na área de tecnologia. 
-<br>
-Atualmente, estou desenvolvendo minhas habilidades em linguagens como javascript, React, C, Html, css, e SQL, além de estudar banco de dados e desenvolvimento web. Também já participei de projetos acadêmicos e pessoais, onde pude aplicar conceitos de lógica de programação e trabalho em equipe. Sou uma pessoa determinada e adaptável, sempre buscando novas oportunidades para expandir meu conhecimento e aplicar o que aprendo na prática. Tenho facilidade para trabalhar em equipe e resolver desafios de forma estratégica. Meu foco é desenvolver minhas habilidades técnicas e contribuir ativamente em projetos que me permitam crescer profissionalmente na área de tecnologia.
+ola, sou o Vinicius Arruda, do Rio Grande do  Sul, e estou no 3º semestre de Sistemas de Informação na UFN.
+
+Comecei na programação em 2022 atraves de cursos online, fiquei estudando durante 7 meses.Durante esses 7 meses vi tecnologias como, JavaScript, React, HTML, e CSS.
+Em 2024 que me aprofundei mais na area atras da faculdade e venho estudando pelo instituicao e por fora.
+
+Participei de projetos acadêmicos e pessoais, sempre buscando evoluir na prática. Meu objetivo é crescer na área de desenvolvimento web, me tornar um desenvolvedor full stack e criar sistemas e aplicativos, além de aprimorar minhas habilidades técnicas e contribuir em projetos que me permitam evoluir profissionalmente na tecnologia.
+
+
 
 ### 🤖 Linguagens e Tecnologias
 
