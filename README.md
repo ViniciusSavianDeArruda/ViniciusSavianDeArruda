@@ -2,7 +2,7 @@
 
 **`Desenvolver Web`**
 
-ola, sou o Vinicius Arruda, do Rio Grande do  Sul, e estou no 3º semestre de Sistemas de Informação na UFN.
+Ola, sou o Vinicius Arruda, do Rio Grande do  Sul, e estou no 3º semestre de Sistemas de Informação na UFN.
 
 Comecei na programação em 2022 atraves de cursos online, fiquei estudando durante 7 meses.Durante esses 7 meses vi tecnologias como, JavaScript, React, HTML, e CSS.
 Em 2024 que me aprofundei mais na area atras da faculdade e venho estudando pelo instituicao e por fora.
