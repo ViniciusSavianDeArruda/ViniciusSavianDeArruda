@@ -4,11 +4,12 @@
 
 Olá! Sou Vinicius Arruda, natural do Rio Grande do Sul, e atualmente estou no 3º semestre do curso de Sistemas de Informação pela Universidade Franciscana (UFN).
 
-Comecei meus estudos em programação em 2022, por meio de cursos online, onde tive meus primeiros contatos com tecnologias como HTML, CSS, JavaScript e React. Foi através desses cursos que descobri meu interesse pelo desenvolvimento web.
+Comecei meus estudos em programação em 2023, por meio de cursos online, onde tive meus primeiros contatos com tecnologias como HTML, CSS, JavaScript.Foi através desses cursos que descobri meu interesse pelo desenvolvimento web.
 
 Em 2024, com o início da graduação, passei a me aprofundar ainda mais na área, combinando os conteúdos aprendidos na universidade com estudos por conta própria. Tenho participado de projetos acadêmicos e pessoais, sempre buscando aplicar os conhecimentos na prática e evoluir constantemente.
 
 Meu objetivo é me tornar um desenvolvedor full stack, criando sistemas e aplicações completas, além de contribuir em projetos que me desafiem e me permitam crescer profissionalmente no universo da tecnologia.
+Atualmente estou estudando por fora da faculdade, tecnologias como, banco de dados, mysql, node.js e react
 
 
 
