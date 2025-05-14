@@ -1,3 +1,5 @@
+## Vinicius Arruda
+
 Olá, sou Vinicius Arruda, natural do Rio Grande do Sul, e estou no 3º semestre de Sistemas de Informação pela UFN.
 
 Iniciei meus estudos na programação em 2023, com cursos online em HTML, CSS e JavaScript, o que despertou meu interesse pelo desenvolvimento web. Em 2024, com a graduação, comecei a aprofundar ainda mais os conhecimentos, aplicando-os em projetos acadêmicos e pessoais.
