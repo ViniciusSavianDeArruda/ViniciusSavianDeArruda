@@ -1,8 +1,7 @@
-## Vinicius Arruda
+## Ola, eu sou o Vinicius
 
-Olá, sou Vinicius Arruda, natural do Rio Grande do Sul. Estou no 3º semestre de Sistemas de Informação pela UFN e iniciei meus estudos em programação em 2024. Desde então, me interessei pela área de desenvolvimento web e pela criação de sistemas. Tenho conhecimentos em HTML, CSS, JavaScript e Bootstrap, e atualmente estou estudando back-end para me tornar um desenvolvedor fullstack. Busco evoluir constantemente e aplicar meus conhecimentos em projetos práticos.
-
-
+Desenvolvedor em formação, comprometido em criar soluções modernas, funcionais e com propósito. Desde o início da minha graduação em Sistemas de Informação (2024), venho me dedicando e evoluindo constantemente na área da tecnologia.
+Atualmente, estudo desenvolvimento web com HTML, CSS e JavaScript. Também pretendo estudar a parte de Back-end, com o objetivo de aprimorar minhas habilidades tanto no Front-end quanto no Back-end, buscando me tornar um desenvolvedor full stack capaz de construir aplicações completas.
 
 ### 🤖 Linguagens e Tecnologias
 
