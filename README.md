@@ -1,50 +1,61 @@
-<h2 align="center">👋Hello, Meu nome é Vinicius<br>Sejam bem vindo ao meu Github</h2>
+<h1 align="center">👋 Olá, eu sou o Vinicius Arruda!</h1>
+<h3 align="center">💻 Estudante de Sistemas de Informação | Desenvolvedor em formação | Foco em Front-end & Back-end</h3>
 
-###
+---
 
-<p align="left">Desenvolvedor em formação, comprometido em criar soluções modernas, funcionais e com propósito. Desde o início da minha graduação em Sistemas de Informação (2024), venho me dedicando e evoluindo constantemente na área da tecnologia. Atualmente, estudo desenvolvimento web com HTML, CSS e JavaScript. Também pretendo estudar a parte de Back-end, com o objetivo de aprimorar minhas habilidades tanto no Front-end quanto no Back-end, buscando me tornar um desenvolvedor full stack capaz de construir aplicações completas.</p>
+<p align="center">
+🚀 Apaixonado por tecnologia, estou trilhando minha jornada no mundo da programação desde o início da minha graduação em <strong>Sistemas de Informação (2024)</strong>.  
+Busco evoluir constantemente, criando soluções modernas, funcionais e com propósito.  
+Atualmente estudo <strong>Desenvolvimento Web</strong> com foco em <code>HTML</code>, <code>CSS</code> e <code>JavaScript</code>, e estou me aprofundando em <strong>Back-end</strong> para me tornar um <strong>Desenvolvedor Full Stack</strong>.
+</p>
 
-###
+---
 
-<h3 align="center">Minhas Linguagens</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<h3 align="center">Minhas ferramentas</h3>
-
-###
+<h2 align="center">🛠️ Tecnologias que estou utilizando</h2>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5 logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3 logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
 </div>
 
-###
+---
 
-<h3 align="center">Minhas Estatísticas</h3>
-
-###
+<h2 align="center">⚙️ Ferramentas e Plataformas</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusSavianDeArruda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniciusSavianDeArruda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="Insomnia logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
 </div>
 
-###
+---
+
+<h2 align="center">📈 Estatísticas do GitHub</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusSavianDeArruda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="180" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniciusSavianDeArruda&locale=pt-br&hide_title=false&layout=compact&card_width=350&langs_count=10&theme=gruvbox&hide_border=false" height="180" alt="Top Languages" />
+</div>
+
+---
+
+<h2 align="center">📚 Em aprendizado contínuo</h2>
+
+<p align="center">
+🧠 Atualmente estudando: <br>
+<strong>React.js</strong> | <strong>Node.js</strong> | <strong>Git & GitHub</strong> | <strong>Banco de Dados MySQL</strong>  
+</p>
+
+---
+
+<h2 align="center">📫 Contato</h2>
+
+<p align="center">
+Entre em contato comigo pelo e-mail: <strong>viniciussavian.dev@gmail.com</strong><br>
+Ou me siga no LinkedIn: <a href="https://www.linkedin.com/in/seu-linkedin-aqui" target="_blank">linkedin.com/in/seu-linkedin-aqui</a>
+</p>
+
