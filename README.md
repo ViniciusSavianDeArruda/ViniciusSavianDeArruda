@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Vinicius Arruda!</h1>
+<h1 align="center">👋 Olá, eu sou o Vinicius Arruda</h1>
 <h3 align="center">💻 Estudante de Sistemas de Informação | Desenvolvedor em formação | Foco em Front-end & Back-end</h3>
 
 
