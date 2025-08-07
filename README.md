@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Vinicius Arruda!</h1>
 <h3 align="center">💻 Estudante de Sistemas de Informação | Desenvolvedor em formação | Foco em Front-end & Back-end</h3>
 
----
+
 
 <p align="center">
 🚀 Apaixonado por tecnologia, estou trilhando minha jornada no mundo da programação desde o início da minha graduação em <strong>Sistemas de Informação (2024)</strong>.  
@@ -9,7 +9,6 @@ Busco evoluir constantemente, criando soluções modernas, funcionais e com prop
 Atualmente estudo <strong>Desenvolvimento Web</strong> com foco em <code>HTML</code>, <code>CSS</code> e <code>JavaScript</code>, e estou me aprofundando em <strong>Back-end</strong> para me tornar um <strong>Desenvolvedor Full Stack</strong>.
 </p>
 
----
 
 <h2 align="center">🛠️ Tecnologias que estou utilizando</h2>
 
@@ -21,7 +20,6 @@ Atualmente estudo <strong>Desenvolvimento Web</strong> com foco em <code>HTML</c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
 </div>
 
----
 
 <h2 align="center">⚙️ Ferramentas e Plataformas</h2>
 
@@ -31,7 +29,6 @@ Atualmente estudo <strong>Desenvolvimento Web</strong> com foco em <code>HTML</c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
 </div>
 
----
 
 <h2 align="center">📈 Estatísticas do GitHub</h2>
 
@@ -41,7 +38,6 @@ Atualmente estudo <strong>Desenvolvimento Web</strong> com foco em <code>HTML</c
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniciusSavianDeArruda&locale=pt-br&hide_title=false&layout=compact&card_width=350&langs_count=10&theme=gruvbox&hide_border=false" height="180" alt="Top Languages" />
 </div>
 
----
 
 <h2 align="center">📚 Em aprendizado contínuo</h2>
 
@@ -50,7 +46,6 @@ Atualmente estudo <strong>Desenvolvimento Web</strong> com foco em <code>HTML</c
 <strong>React.js</strong> | <strong>Node.js</strong> | <strong>Git & GitHub</strong> | <strong>Banco de Dados MySQL</strong>  
 </p>
 
----
 
 <h2 align="center">📫 Contato</h2>
 
