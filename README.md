@@ -4,7 +4,7 @@
 
 
 <p align="center">
-🚀 Apaixonado por tecnologia, estou trilhando minha jornada no mundo da programação desde o início da minha graduação em <strong>Sistemas de Informação (2024)</strong>.  
+Apaixonado por tecnologia, estou trilhando minha jornada no mundo da programação desde o início da minha graduação em <strong>Sistemas de Informação (2024)</strong>.  
 Busco evoluir constantemente, criando soluções modernas, funcionais e com propósito.  
 Atualmente estudo <strong>Desenvolvimento Web</strong> com foco em <code>HTML</code>, <code>CSS</code> e <code>JavaScript</code>, e estou me aprofundando em <strong>Back-end</strong> para me tornar um <strong>Desenvolvedor Full Stack</strong>.
 </p>
