@@ -9,37 +9,33 @@ Atualmente, estudo Desenvolvimento Web com foco em HTML, CSS e JavaScript, e est
 Pretendo estudar e aplicar tecnologias como React.js e Node.js nos meus projetos futuros.
 
 
-<h2 align="left">🛠️ Tecnologias que estou utilizando</h2>
+### Technologies you used:
 <div align="left">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5 logo" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3 logo" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+  <img width="40" height="40" alt="html" src="https://github.com/user-attachments/assets/e5a44afc-d7db-4a68-a50e-e360fad87ecd" />
+  <img width="40" height="40" alt="css" src="https://github.com/user-attachments/assets/6b73f3d0-bebd-48e8-9a86-cc2cd077ae4a" />
+  <img width="40" height="40" alt="javascript" src="https://github.com/user-attachments/assets/71542e15-6bdd-4d72-a19d-e866e000355e" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++ logo" />
+  <img width="42" height="42" alt="mysql" src="https://github.com/user-attachments/assets/90ef2b83-11ad-43c0-8394-898f325616f5" />
 </div>
 
-<h2 align="left">⚙️ Ferramentas e Plataformas</h2>
+### Tools and platforms:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="Insomnia logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
 </div>
 
-<h2 align="left">📈 Estatísticas do GitHub</h2>
+### GitHub statistics:
 <div align="left">
-        <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ViniciusSavianDeArruda&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="ViniciusSavianDeArruda github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+        <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ViniciusSavianDeArruda&show_icons=true&count_private=true&hide_border=true&title_color=fffff&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="ViniciusSavianDeArruda github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&hide_border=true&title_color=fffff&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 
-<h2 align="left">📚 Em aprendizado contínuo</h2>
-<p align="lerf">
-  
-🧠 Atualmente estudando: <br>
-<strong>Git & GitHub</strong> | <strong>Banco de Dados MySQL</strong>  
-</p>
+<h3 align="left">Continuous learning:</h3>
+<p align="left"><strong>Git & GitHub</strong> | <strong>Banco de Dados MySQL</strong> | <strong>JavaScript</strong></p>
 
-<h2 align="center">📫 Contato</h2>
+<h3 align="center">Contact:</h3>
 <p align="center">
-Entre em contato comigo pelo LinkedIn: <a href="https://www.linkedin.com/in/arrudavinicius/" target="_blank">https://www.linkedin.com/in/arrudavinicius/</a>
+Entre em contato comigo pelo <a href="https://www.linkedin.com/in/arrudavinicius/" target="_blank">LinkedIn</a>
 </p>
