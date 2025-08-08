@@ -12,7 +12,7 @@ Pretendo estudar e aplicar tecnologias como React.js e Node.js nos meus projetos
 <p align="center"><em>🎓 Estudante de Sistemas de Informação | 👨‍💻 Desenvolvedor em formação | 💻 Foco em Front-end & Back-end</em></p>
 
 
-### Technologies you used:.
+### Technologies you used:
 <div align="left">
   <img width="40" height="40" alt="html" src="https://github.com/user-attachments/assets/e5a44afc-d7db-4a68-a50e-e360fad87ecd" />
   <img width="40" height="40" alt="css" src="https://github.com/user-attachments/assets/6b73f3d0-bebd-48e8-9a86-cc2cd077ae4a" />
