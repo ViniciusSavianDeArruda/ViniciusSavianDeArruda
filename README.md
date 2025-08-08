@@ -9,6 +9,9 @@ Atualmente, estudo Desenvolvimento Web com foco em HTML, CSS e JavaScript, e est
 Pretendo estudar e aplicar tecnologias como React.js e Node.js nos meus projetos futuros.
 
 
+<p align="center"><em>🎓 Estudante de Sistemas de Informação | 👨‍💻 Desenvolvedor em formação | 💻 Foco em Front-end & Back-end</em></p>
+
+
 ### Technologies you used:
 <div align="left">
   <img width="40" height="40" alt="html" src="https://github.com/user-attachments/assets/e5a44afc-d7db-4a68-a50e-e360fad87ecd" />
