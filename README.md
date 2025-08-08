@@ -30,9 +30,10 @@ Pretendo estudar e aplicar tecnologias como React.js e Node.js nos meus projetos
 
 ### GitHub statistics:
 <div align="left">
-        <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ViniciusSavianDeArruda&show_icons=true&count_private=true&hide_border=true&title_color=fffff&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="ViniciusSavianDeArruda github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&hide_border=true&title_color=fffff&text_color=ffffff&bg_color=0d1117" />
-</div>
+        <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ViniciusSavianDeArruda&show_icons=true&count_private=true&hide_border=true&title_color=fffff&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=0" alt="ViniciusSavianDeArruda github stats"/> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&hide_border=true&title_color=fffff&text_color=ffffff&bg_color=0d1117&cache_seconds=0" />
+
+  
 
 
 <h3 align="left">Continuous learning:</h3>
