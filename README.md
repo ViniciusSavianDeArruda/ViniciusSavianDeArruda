@@ -31,7 +31,7 @@ Pretendo estudar e aplicar tecnologias como React.js, typescript, e Node.js nos 
 
 ### GitHub statistics:
 <div align="left">
-        <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api username=ViniciusSavianDeArruda&show_icons=true&count_private=true&hide_border=true&title_color=fffff&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=0v3" alt="ViniciusSavianDeArruda github stats"/> 
+        <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ViniciusSavianDeArruda&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=3600&v=2" alt="ViniciusSavianDeArruda github stats" />
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide=css,html,scss&cache_seconds=3600&v=3" />
 
 
