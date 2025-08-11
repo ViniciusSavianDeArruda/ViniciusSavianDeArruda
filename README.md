@@ -6,7 +6,7 @@
 Sou Desenvolvedor Web com foco em Front-End e iniciei minha jornada na programação em 2024, durante a graduação em Sistemas de Informação pela Universidade Franciscana (UFN). Desde então, estou em constante evolução, sempre buscando aprimorar minhas habilidades e desenvolver soluções modernas, funcionais e com propósito.
 
 Atualmente, estudo Desenvolvimento Web com foco em HTML, CSS e JavaScript, e estou me aprofundando em Back-End para me tornar um Desenvolvedor Full Stack.
-Pretendo estudar e aplicar tecnologias como React.js e Node.js nos meus projetos futuros.
+Pretendo estudar e aplicar tecnologias como React.js, typescript, e Node.js nos meus projetos futuros.
 
 
 <p align="center"><em>🎓 Estudante de Sistemas de Informação | 👨‍💻 Desenvolvedor em formação | 💻 Foco em Front-end & Back-end</em></p>
