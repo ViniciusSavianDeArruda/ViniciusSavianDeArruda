@@ -27,6 +27,8 @@ Pretendo estudar e aplicar tecnologias como React.js, typescript, e Node.js nos 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="Insomnia logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" />
+  <img height="44" src="https://img.icons8.com/color/48/git.png" alt="git"/
+  
 </div>
 
 ### GitHub statistics:
