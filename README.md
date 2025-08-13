@@ -14,27 +14,41 @@ Pretendo estudar e aplicar tecnologias como React.js, typescript, e Node.js nos 
 
 ### Technologies you used:
 <div align="left">
-  <img width="40" height="40" alt="html" src="https://github.com/user-attachments/assets/e5a44afc-d7db-4a68-a50e-e360fad87ecd" />
-  <img width="40" height="40" alt="css" src="https://github.com/user-attachments/assets/6b73f3d0-bebd-48e8-9a86-cc2cd077ae4a" />
-  <img width="40" height="40" alt="javascript" src="https://github.com/user-attachments/assets/71542e15-6bdd-4d72-a19d-e866e000355e" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++ logo" />
-  <img width="42" height="42" alt="mysql" src="https://github.com/user-attachments/assets/90ef2b83-11ad-43c0-8394-898f325616f5" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,c,cpp" />
 </div>
 
 ### Tools and platforms:
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="Insomnia logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" />
-  <img height="44" src="https://img.icons8.com/color/48/git.png" alt="git"/
-  
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,git" />
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg" width="48" height="48" alt="Insomnia" style="margin-left: 8px;" />
 </div>
 
+
 ### GitHub statistics:
-<div align="left">
-        <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ViniciusSavianDeArruda&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" lt="ViniciusSavianDeArruda github stats" />
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide=css,html,scss&cache_seconds=3600&v=4" />
+<div align="center" style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=ViniciusSavianDeArruda&show_icons=true&count_private=true&hide_border=false&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800"
+    alt="ViniciusSavianDeArruda GitHub stats"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&hide=css,html,scss&hide_border=false&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800"
+    alt="Top languages"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusSavianDeArruda&theme=tokyonight&hide_border=false"
+    alt="GitHub streak"
+  />
+
+</div>
+
+
+
 
 
 
@@ -42,7 +56,21 @@ Pretendo estudar e aplicar tecnologias como React.js, typescript, e Node.js nos 
 <h3 align="left">Continuous learning:</h3>
 <p align="left"><strong>Git & GitHub</strong> | <strong>Banco de Dados MySQL</strong> | <strong>JavaScript</strong></p>
 
+---
+
 <h3 align="center">Contact:</h3>
 <p align="center">
 Entre em contato comigo pelo <a href="https://www.linkedin.com/in/arrudavinicius/" target="_blank">LinkedIn</a>
 </p>
+
+
+
+
+
+
+
+
+
+ 
+
+
