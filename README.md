@@ -24,13 +24,15 @@ Pretendo estudar e aplicar tecnologias como React.js, typescript, e Node.js nos 
 </div>
 
 
+
 ### GitHub Statistics
 
 <p align="center">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=ViniciusSavianDeArruda&show_icons=true&count_private=true&hide_border=false&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="GitHub stats" />
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&hide=css,html,scss&hide_border=false&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="Top languages" />
-  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com?user=ViniciusSavianDeArruda&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusSavianDeArruda&show_icons=true&count_private=true&hide_border=false&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&hide=css,html,scss&hide_border=false&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="Top languages" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ViniciusSavianDeArruda&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
+
 
 
 
