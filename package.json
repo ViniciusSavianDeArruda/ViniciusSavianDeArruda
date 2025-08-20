@@ -1,0 +1,17 @@
+{
+  "name": "github-profile-readme",
+  "version": "1.0.0",
+  "description": "GitHub profile README with personalized statistics and information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "profile",
+    "readme",
+    "markdown"
+  ],
+  "author": "Vinícius Arruda",
+  "license": "MIT"
+}
