@@ -21,6 +21,11 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
 - 🚀 **Foco** em criar soluções funcionais e com propósito
 - 📚 **Aprendizado contínuo** em novas tecnologias
 
+### 🎯 Foco atual
+- 🌐 **Desenvolvimento Web** - HTML, CSS e JavaScript
+- 🗄️ **Banco de Dados** - MySQL para persistência de dados
+- ⚡ **JavaScript** - Aprofundamento em lógica e manipulação do DOM
+
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
@@ -39,11 +44,6 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
 <div align="left">
   <img src="https://skillicons.dev/icons?i=javascript,mysql" alt="Currently Learning" />
 </div>
-
-**Foco atual:**
-- 🌐 **Desenvolvimento Web** - HTML, CSS e JavaScript
-- 🗄️ **Banco de Dados** - MySQL para persistência de dados
-- ⚡ **JavaScript** - Aprofundamento em lógica e manipulação do DOM
 
 ### 🎯 Próximos Estudos
 <div align="left">
