@@ -58,6 +58,14 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ViniciusSavianDeArruda&theme=dark&hide_border=true&background=0D1117&ring=00BFBF&fire=00BFBF&currStreakLabel=00BFBF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&border=00BFBF" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ViniciusSavianDeArruda&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ViniciusSavianDeArruda&hide_border=true&title_color=00bfbf&text_color=ffffff&bg_color=0d1117&border_radius=10&custom_title=⏰%20Tempo%20de%20Codificação" alt="Wakatime Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ViniciusSavianDeArruda&theme=github_dark&utcOffset=-3" alt="Productive Time" />
+</div>
 
 ---
 
