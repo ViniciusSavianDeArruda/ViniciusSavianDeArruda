@@ -50,12 +50,16 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusSavianDeArruda&show_icons=true&count_private=true&hide_border=false&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&hide_border=false&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800&hide=html,css,scss" alt="Most Used Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusSavianDeArruda&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=ffffff&bg_color=0d1117&border_radius=10&custom_title=📈%20Estatísticas%20do%20Vinícius" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&hide_border=true&title_color=00bfbf&text_color=ffffff&bg_color=0d1117&border_radius=10&custom_title=💻%20Linguagens%20Favoritas&hide=html,css,scss" alt="Most Used Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ViniciusSavianDeArruda&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ViniciusSavianDeArruda&theme=dark&hide_border=true&background=0D1117&ring=00BFBF&fire=00BFBF&currStreakLabel=00BFBF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&border=00BFBF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusSavianDeArruda&bg_color=0d1117&color=ffffff&line=00bfbf&point=00bfbf&area=true&hide_border=true&custom_title=📊%20Gráfico%20de%20Contribuições" alt="GitHub Activity Graph" />
 </div>
 
 ---
