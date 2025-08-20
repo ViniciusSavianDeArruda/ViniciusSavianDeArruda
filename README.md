@@ -67,7 +67,7 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusSavianDeArruda&show_icons=true&count_private=true&hide_border=false&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&hide_border=false&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800&hide=html,css" alt="Most Used Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&hide_border=false&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800&hide=html,css,scss" alt="Most Used Languages" />
 </div>
 
 <div align="center">
