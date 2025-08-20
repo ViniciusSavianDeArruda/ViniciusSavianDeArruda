@@ -25,24 +25,14 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### 💻 Linguagens
+### 💻 Linguagens de Programação
 <div align="left">
   <img src="https://skillicons.dev/icons?i=javascript,c,cpp" alt="Programming Languages" />
 </div>
 
-### 🌐 Web & Estilo
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" alt="Web Technologies" />
-</div>
-
-### 🗄️ Banco de Dados
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="Databases" />
-</div>
-
 ### 🔧 Ferramentas de Desenvolvimento
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,mysql" alt="Development Tools" />
 </div>
 
 ### 📚 Estudando atualmente
