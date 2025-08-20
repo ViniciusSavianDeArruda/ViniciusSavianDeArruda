@@ -58,9 +58,6 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ViniciusSavianDeArruda&theme=dark&hide_border=true&background=0D1117&ring=00BFBF&fire=00BFBF&currStreakLabel=00BFBF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&border=00BFBF" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusSavianDeArruda&bg_color=0d1117&color=ffffff&line=00bfbf&point=00bfbf&area=true&hide_border=true&custom_title=📊%20Gráfico%20de%20Contribuições" alt="GitHub Activity Graph" />
-</div>
 
 ---
 
