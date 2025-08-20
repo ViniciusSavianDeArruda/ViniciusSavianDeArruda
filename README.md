@@ -48,7 +48,17 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
 
 ### 📚 Estudando atualmente
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs" alt="Currently Learning" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql" alt="Currently Learning" />
+</div>
+
+**Foco atual:**
+- 🌐 **Desenvolvimento Web** - HTML, CSS e JavaScript
+- 🗄️ **Banco de Dados** - MySQL para persistência de dados
+- ⚡ **JavaScript** - Aprofundamento em lógica e manipulação do DOM
+
+### 🎯 Próximos Estudos
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript" alt="Next Studies" />
 </div>
 
 ---
@@ -68,9 +78,16 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
 
 ## 🎯 Objetivos de Aprendizado 2024
 
+### 📚 Estudos Atuais (Em Progresso)
+- [x] **HTML & CSS** - Estrutura e estilização web
+- [x] **JavaScript** - Lógica de programação e DOM
+- [x] **MySQL** - Banco de dados relacional
+- [ ] **Desenvolvimento Web Avançado** - Projetos práticos
+
+### 🚀 Próximas Metas
 - [ ] **React.js** - Biblioteca para interfaces de usuário
-- [ ] **TypeScript** - JavaScript com tipagem estática
 - [ ] **Node.js** - Runtime JavaScript para back-end
+- [ ] **TypeScript** - JavaScript com tipagem estática
 - [ ] **Express.js** - Framework web para Node.js
 - [ ] **MongoDB** - Banco de dados NoSQL
 - [ ] **Docker** - Containerização de aplicações
