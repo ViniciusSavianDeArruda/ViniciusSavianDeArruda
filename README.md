@@ -25,9 +25,14 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### 💻 Linguagens de Programação
+### 💻 Linguagens
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=javascript,c,cpp" alt="Programming Languages" />
+</div>
+
+### 🌐 Web & Estilo
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" alt="Web Technologies" />
 </div>
 
 ### 🗄️ Banco de Dados
@@ -35,20 +40,14 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
   <img src="https://skillicons.dev/icons?i=mysql" alt="Databases" />
 </div>
 
-### 🎨 Frameworks & Bibliotecas
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" alt="Frameworks" />
-</div>
-
 ### 🔧 Ferramentas de Desenvolvimento
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools" />
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg" width="48" height="48" alt="Insomnia" style="margin-left: 8px;" />
+  <img src="https://skillicons.dev/icons?i=git,vscode" alt="Development Tools" />
 </div>
 
 ### 📚 Estudando atualmente
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql" alt="Currently Learning" />
+  <img src="https://skillicons.dev/icons?i=javascript,mysql" alt="Currently Learning" />
 </div>
 
 **Foco atual:**
