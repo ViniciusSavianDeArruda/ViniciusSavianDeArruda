@@ -93,10 +93,5 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
   </a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
