@@ -62,7 +62,7 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
 
 ---
 
-## 🎯 Objetivos de Aprendizado 2024
+## 🎯 Objetivos de Aprendizado que pretendo estudar
 
 ### 🚀 Próximas Metas
 - [ ] **React.js** - Biblioteca para interfaces de usuário
