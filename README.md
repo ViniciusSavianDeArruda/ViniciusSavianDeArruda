@@ -24,7 +24,7 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
 ### 🎯 Foco atual
 - 🌐 **Desenvolvimento Web** - HTML, CSS e JavaScript
 - 🗄️ **Banco de Dados** - MySQL para persistência de dados
-- ⚡ **JavaScript** - Aprofundamento em lógica e manipulação do DOM
+- ⚡ **JavaScript** - Aprofundamento em lógica de programacao e estudando diariamente
 
 ---
 
