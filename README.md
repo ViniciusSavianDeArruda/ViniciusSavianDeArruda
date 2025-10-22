@@ -28,21 +28,9 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-
-### 💻 Linguagens de Programação
+### 💻 Stacks
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp" alt="Programming Languages" />
-</div>
-
-### 🔧 Plataformas & Ferramentas
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode,mysql,bootstrap,insomnia" alt="Platforms & Tools" />
-</div>
-
-### 🎯 Próximos Estudos
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript" alt="Next Studies" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,python,mysql,git,github,figma,c,cpp" alt="Stacks" />
 </div>
 
 ---
@@ -74,12 +62,6 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
 - [ ] **Express.js** - Framework web para Node.js
 - [ ] **MongoDB** - Banco de dados NoSQL
 - [ ] **Docker** - Containerização de aplicações
-
----
-
-## 🚀 Projetos em Destaque
-
-> 🔄 **Em breve!** Estou trabalhando em projetos incríveis que serão adicionados aqui.
 
 ---
 
