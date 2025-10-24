@@ -48,16 +48,10 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
 
 ---
 
-## 🎯 Objetivos de Aprendizado que pretendo estudar
-
-### 🚀 Próximas Metas
+### Proximos estudos que pretendo estudar
 - [ ] **React.js** - Biblioteca para interfaces de usuário
 - [ ] **Node.js** - Runtime JavaScript para back-end
 - [ ] **TypeScript** - JavaScript com tipagem estática
-- [ ] **Express.js** - Framework web para Node.js
-- [ ] **MongoDB** - Banco de dados NoSQL
-- [ ] **Docker** - Containerização de aplicações
-
 ---
 
 ## 📫 Vamos nos conectar?
