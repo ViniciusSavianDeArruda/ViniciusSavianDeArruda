@@ -44,11 +44,6 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
      alt="Most Used Languages"/>
 
 
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ViniciusSavianDeArruda&theme=dark&hide_border=true&background=0D1117&ring=00BFBF&fire=00BFBF&currStreakLabel=00BFBF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&border=00BFBF" alt="GitHub Streak" />
-</div>
 
 
 ---
