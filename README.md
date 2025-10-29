@@ -9,33 +9,33 @@
   <img src="https://img.shields.io/github/followers/ViniciusSavianDeArruda?color=00bfbf&style=flat-square&label=Seguidores" alt="GitHub followers" />
 </p>
 
-## Sobre mim
+## 🧑‍💻 Sobre mim
 
 Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na programação em 2024, durante a graduação em **Sistemas de Informação** pela Universidade Franciscana (UFN). 
 
 **Objetivo atual:** Evoluir para **Desenvolvedor Full Stack**, dominando tanto o front-end quanto o back-end.
 
-### Destaques
+### 🎯 Destaques
 - **Estudante** de Sistemas de Informação na UFN
 - **Especialização** em desenvolvimento web moderno
 - **Foco** em criar soluções funcionais e com propósito
 - **Aprendizado contínuo** em novas tecnologias
 
-### Foco atual
+### 💡Foco atual
 - **Desenvolvimento Web** - HTML, CSS e JavaScript
 - **Banco de Dados** - MySQL para persistência de dados
 - **JavaScript** - Aprofundamento em lógica de programacao e estudando diariamente
 
 ---
 
-### Stacks
+### ⚙️ Stacks
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,python,mysql,git,github,figma,c,cpp" alt="Stacks" />
 </div>
 
 ---
 
-## Estatísticas GitHub
+## 📊 Estatísticas GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusSavianDeArruda&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=ffffff&bg_color=0d1117&border_radius=10&custom_title=%20Estatísticas%20Github%20" alt="GitHub stats" />
@@ -48,7 +48,7 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
 
 ---
 
-### Proximos estudos que pretendo estudar
+###  🚀 Proximos estudos que pretendo estudar
 - [ ] **React.js** - Biblioteca para interfaces de usuário
 - [ ] **Node.js** - Runtime JavaScript para back-end
 - [ ] **TypeScript** - JavaScript com tipagem estática
