@@ -33,7 +33,7 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
 </div>
 
 
-### 🚀 Próximos estudos que pretendo estudar
+### 🚀 Proximos estudos
 - [ ] **React.js** — Biblioteca para interfaces de usuário
 - [ ] **Node.js** — Runtime JavaScript para back-end
 - [ ] **TypeScript** — JavaScript com tipagem estática
