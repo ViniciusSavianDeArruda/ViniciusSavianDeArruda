@@ -3,7 +3,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na programação em 2024, durante a graduação em **Sistemas de Informação** pela Universidade Franciscana (UFN). 
+Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na programação em 2024, durante a graduação em **Sistemas de Informação** pela Universidade Franciscana (UFN).
 
 **Objetivo atual:** Evoluir para **Desenvolvedor Full Stack**, dominando tanto o front-end quanto o back-end.
 
@@ -13,39 +13,42 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
 - **Foco** em criar soluções funcionais e com propósito
 - **Aprendizado contínuo** em novas tecnologias
 
-### 💡Foco atual
-- **Desenvolvimento Web** - HTML, CSS e JavaScript
-- **Banco de Dados** - MySQL para persistência de dados
-- **JavaScript** - Aprofundamento em lógica de programacao e estudando diariamente
+
+### 💡 Foco atual
+- **Desenvolvimento Web** — HTML, CSS e JavaScript
+- **Banco de Dados** — MySQL para persistência de dados
+- **JavaScript** — Aprofundamento em lógica de programação e estudo diário
+
 
 ### ⚙️ Stacks
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,python,mysql,git,github,figma,c,cpp" alt="Stacks" />
 </div>
 
+
 ## 📊 Estatísticas GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusSavianDeArruda&show_icons=true&theme=great-gatsby"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&hide=scss,c%2B%2B,jupyter%20notebook&langs_count=10&theme=great-gatsby"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&hide=scss,c%2B%2B,jupyter%20notebook&langs_count=10&theme=great-gatsby"/>
 </div>
 
-###  🚀 Proximos estudos que pretendo estudar
-- [ ] **React.js** - Biblioteca para interfaces de usuário
-- [ ] **Node.js** - Runtime JavaScript para back-end
-- [ ] **TypeScript** - JavaScript com tipagem estática
+
+### 🚀 Próximos estudos que pretendo estudar
+- [ ] **React.js** — Biblioteca para interfaces de usuário
+- [ ] **Node.js** — Runtime JavaScript para back-end
+- [ ] **TypeScript** — JavaScript com tipagem estática
 
 
 ## 📫 Vamos nos conectar?
 
-<div align="">
+<div align="left">
   <a href="https://www.linkedin.com/in/arrudavinicius/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="arrudavinicius283@gmail.com" target="_blank">
+  <a href="mailto:arrudavinicius283@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/ViniciusSavianDeArruda" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
-
