@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Vinícius+Arruda!;Desenvolvedor+Web+em+formação;Bem-vindo+ao+meu+GitHub!+🚀" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ViniciusSavianDeArruda&color=00bfbf&style=flat-square&label=Visualizações+do+perfil" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ViniciusSavianDeArruda?color=00bfbf&style=flat-square&label=Seguidores" alt="GitHub followers" />
-</p>
-
 ## 🧑‍💻 Sobre mim
 
 Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na programação em 2024, durante a graduação em **Sistemas de Informação** pela Universidade Franciscana (UFN). 
@@ -36,15 +31,10 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
 ---
 
 ## 📊 Estatísticas GitHub
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusSavianDeArruda&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=ffffff&bg_color=0d1117&border_radius=10&custom_title=%20Estatísticas%20Github%20" alt="GitHub stats" />
-  <img height="180em"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&hide_border=true&title_color=00bfbf&text_color=ffffff&bg_color=0d1117&border_radius=10&custom_title=%20Linguagens%20Favoritas&hide=scss,c%2B%2B,jupyter%20notebook&langs_count=10"
-     alt="Most Used Languages"/>
-
-
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusSavianDeArruda&show_icons=true&theme=great-gatsby"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&hide=scss,c%2B%2B,jupyter%20notebook&langs_count=10&theme=great-gatsby"/>
+</div>
 
 ---
 
