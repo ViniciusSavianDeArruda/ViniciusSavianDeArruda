@@ -1,8 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+## Olá, eu sou o Vinicius Arruda 🖐️
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Vinícius+Arruda!;Desenvolvedor+Web+em+formação;Bem-vindo+ao+meu+GitHub!+🚀" alt="Typing SVG" />
-</h1>
 
 ## 🧑‍💻 Sobre mim
 
@@ -21,14 +18,10 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
 - **Banco de Dados** - MySQL para persistência de dados
 - **JavaScript** - Aprofundamento em lógica de programacao e estudando diariamente
 
----
-
 ### ⚙️ Stacks
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,python,mysql,git,github,figma,c,cpp" alt="Stacks" />
 </div>
-
----
 
 ## 📊 Estatísticas GitHub
 <div align="center">
@@ -36,17 +29,15 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&hide=scss,c%2B%2B,jupyter%20notebook&langs_count=10&theme=great-gatsby"/>
 </div>
 
----
-
 ###  🚀 Proximos estudos que pretendo estudar
 - [ ] **React.js** - Biblioteca para interfaces de usuário
 - [ ] **Node.js** - Runtime JavaScript para back-end
 - [ ] **TypeScript** - JavaScript com tipagem estática
----
+
 
 ## 📫 Vamos nos conectar?
 
-<div align="center">
+<div align="">
   <a href="https://www.linkedin.com/in/arrudavinicius/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -58,5 +49,3 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
   </a>
 </div>
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
