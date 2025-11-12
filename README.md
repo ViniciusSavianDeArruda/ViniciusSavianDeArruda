@@ -22,7 +22,7 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
 
 ### ⚙️ Stacks
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,python,mysql,git,github,figma,c,cpp" alt="Stacks" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,python,mysql,git,github,figma,c,cpp" alt="Stacks" />
 </div>
 
 
