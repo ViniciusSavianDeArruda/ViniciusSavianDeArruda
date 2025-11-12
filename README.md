@@ -7,7 +7,7 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
 **Objetivo atual:** Evoluir para **Desenvolvedor Full Stack**, dominando tanto o front-end quanto o back-end.
 
 
-### ✨Destaques
+### 🎯 Destaques
 
 - **Estudante** de Sistemas de Informação na UFN  
 - **Especialização** em desenvolvimento web moderno  
