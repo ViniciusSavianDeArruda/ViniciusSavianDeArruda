@@ -1,13 +1,15 @@
 ## Olá, eu sou o Vinicius Arruda 🖐️
 
-
 ## 🧑‍💻 Sobre mim
 
 Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na programação em 2024, durante a graduação em **Sistemas de Informação** pela Universidade Franciscana (UFN).
 
 **Objetivo atual:** Evoluir para **Desenvolvedor Full Stack**, dominando tanto o front-end quanto o back-end.
 
-### 🎯 Destaques
+
+ ###  🎯 Destaques
+
+
 - **Estudante** de Sistemas de Informação na UFN
 - **Especialização** em desenvolvimento web moderno
 - **Foco** em criar soluções funcionais e com propósito
