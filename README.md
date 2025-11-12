@@ -6,7 +6,6 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
 
 **Objetivo atual:** Evoluir para **Desenvolvedor Full Stack**, dominando tanto o front-end quanto o back-end.
 
----
 
 ### ✨Destaques
 
@@ -15,7 +14,6 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
 - **Foco** em criar soluções funcionais e com propósito  
 - **Aprendizado contínuo** em novas tecnologias  
 
----
 
 ### 💡 Foco atual
 
@@ -23,14 +21,12 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
 - **Banco de Dados** — MySQL para persistência de dados  
 - **JavaScript** — Aprofundamento em lógica de programação e estudo diário  
 
----
 
 ### ⚙️ Stacks
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,python,mysql,git,github,figma,c,cpp" alt="Stacks" />
 </div>
 
----
 
 ## 📊 Estatísticas GitHub
 <div align="center">
@@ -38,7 +34,6 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&hide=scss,c%2B%2B,jupyter%20notebook&langs_count=10&theme=great-gatsby"/>
 </div>
 
----
 
 ### 🚀 Próximos estudos
 
@@ -46,7 +41,6 @@ Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na p
 - [ ] **Node.js** — Runtime JavaScript para back-end  
 - [ ] **TypeScript** — JavaScript com tipagem estática  
 
----
 
 ## 📫 Vamos nos conectar?
 
