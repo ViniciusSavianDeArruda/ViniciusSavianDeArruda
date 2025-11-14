@@ -2,18 +2,16 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou **Desenvolvedor Web** com foco em **Front-End** e iniciei minha jornada na programação em 2024, durante a graduação em **Sistemas de Informação** pela Universidade Franciscana (UFN).
+Sou estudante de Sistemas de Informação na Universidade Franciscana (UFN) e tenho grande interesse em tecnologia e desenvolvimento de software. Atualmente estudo desenvolvimento web, mas também tenho forte interesse pelo back-end, onde pretendo expandir meus conhecimentos para construir uma base sólida em ambas as áreas e evoluir para Desenvolvedor Full Stack. Desde o início da minha formação, venho consolidando minha base em programação, compreendendo o funcionamento dos sistemas e explorando ferramentas que ampliam continuamente minhas habilidades como desenvolvedor.
 
-**Objetivo atual:** Evoluir para **Desenvolvedor Full Stack**, dominando tanto o front-end quanto o back-end.
 
 
 ### 🎯 Destaques
 
-- **Estudante** de Sistemas de Informação na UFN  
-- **Especialização** em desenvolvimento web moderno  
 - **Foco** em criar soluções funcionais e com propósito  
 - **Aprendizado contínuo** em novas tecnologias  
-
+- **Evoluir** diariamente em lógica, clareza e organização de código
+- **Trabalhar** em equipe e compartilhar conhecimento
 
 ### 💡 Foco atual
 
