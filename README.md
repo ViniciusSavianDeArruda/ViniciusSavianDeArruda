@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de Sistemas de Informação na Universidade Franciscana (UFN) e tenho grande interesse em tecnologia e desenvolvimento de software. Atualmente estudo desenvolvimento web, mas também tenho forte interesse pelo back-end, onde pretendo expandir meus conhecimentos para construir uma base sólida nas duas áreas e evoluir para Desenvolvedor Full Stack.
+Sou estudante de Sistemas de Informação na Universidade Franciscana (UFN) e tenho grande interesse em tecnologia e desenvolvimento de software focado no desenvolvimento Web. Atualmente estudo desenvolvimento web, mas também tenho forte interesse pelo back-end, onde pretendo expandir meus conhecimentos para construir uma base sólida nas duas áreas e evoluir para Desenvolvedor Full Stack.
 
 Desde o início da minha formação, venho consolidando minha base em programação, compreendendo o funcionamento dos sistemas e explorando ferramentas que ampliam continuamente minhas habilidades como desenvolvedor. Além disso, venho estudando metodologias ágeis, buscando aprimorar minha organização, comunicação e eficiência no trabalho em equipe.
 
