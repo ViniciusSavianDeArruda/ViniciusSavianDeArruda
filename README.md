@@ -22,7 +22,7 @@ Desde o início da minha formação, venho consolidando minha base em programaç
 
 ### ⚙️ Stacks
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,python,mysql,git,github,figma,c,cpp" alt="Stacks" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript, react, typescript ,bootstrap,python,mysql,git,github,figma,c,cpp" alt="Stacks" />
 </div>
 
 
