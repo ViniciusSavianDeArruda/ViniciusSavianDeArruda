@@ -25,7 +25,7 @@ Desde o início da minha formação, venho consolidando minha base em lógica de
 ---
 
 ### 📫 Vamos nos conectar?
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/arrudavinicius/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
   </a>
