@@ -1,10 +1,13 @@
 ## Olá, eu sou o Vinicius Arruda 🖐️
 
+![Localização](https://img.shields.io/badge/Localização-Brasil-green?style=flat-square&logo=googlemaps&logoColor=white)
+![Idioma](https://img.shields.io/badge/Idioma-Português%20(Nativo)-blue?style=flat-square)
+
 ### 🧑‍💻 Sobre mim
 
-Sou acadêmico de **Sistemas de Informação na Universidade Franciscana (UFN)**, atualmente no **5º semestre**, focado em transformar lógica em soluções reais através do desenvolvimento de software. Atualmente, meu foco principal é o ecossistema **Frontend (React.js, TypeScript e Tailwind CSS)**, mantendo um estudo constante em **Backend** para consolidar minha base técnica e evoluir como **Desenvolvedor Full Stack**.
+Sou acadêmico de **Sistemas de Informação na Universidade Franciscana (UFN)**, atualmente no **5º semestre**. Meu foco principal é o ecossistema **Frontend (React.js, TypeScript e Tailwind CSS)**, mantendo um estudo constante em **Backend** para consolidar minha base técnica e evoluir como **Desenvolvedor Full Stack**.
 
-Desde o início da minha formação, venho consolidando minha base em **lógica de programação**, compreendendo o funcionamento dos sistemas e explorando ferramentas que ampliam continuamente minhas habilidades como desenvolvedor.
+Desde o início da minha formação, venho consolidando minha base em lógica de programação e compreensão de sistemas. Além disso, trago comigo os valores de **disciplina e resiliência** consolidados durante meu tempo no **Exército Brasileiro**, características que hoje aplico na resolução de problemas técnicos e na organização do meu fluxo de desenvolvimento de software.
 
 ---
 
