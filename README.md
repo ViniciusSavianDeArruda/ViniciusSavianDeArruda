@@ -13,9 +13,8 @@ Desde o início da minha formação, venho consolidando minha base em lógica de
 
 ### ⚙️ Stacks e Tecnologias
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,js,html,css,java,mysql,python,git,figma,c&theme=dark" alt="Stacks" />
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,js,html,css,nodejs,prisma,postgres,docker,java,python,git&theme=dark" />
 </div>
-
 ### 📊 Estatísticas GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ViniciusSavianDeArruda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
