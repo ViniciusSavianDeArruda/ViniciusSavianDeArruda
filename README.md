@@ -11,9 +11,8 @@ Desde o início da minha formação, venho consolidando minha base em lógica de
 
 ### 🔭 Atualmente
 
-- 💻 Desenvolvendo projetos práticos com **React + TypeScript**
-- 📚 Estudando **Next.js**, **Node.js** e boas práticas de **API REST**
-- 🎯 Objetivo: conquistar minha primeira oportunidade profissional como desenvolvedor
+- 💻 Desenvolvendo projetos práticos com **React + TypeScript** + Tailwind CSS
+- 📚 Estudando **Node.js** e boas práticas de **API REST**
 - 🤝 Aberto a **freelas**, **projetos colaborativos** e **oportunidades de estágio**
 
 ---
