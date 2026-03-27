@@ -11,7 +11,7 @@ Desde o início da minha formação, venho consolidando minha base em lógica de
 
 ### 🔭 Atualmente
 
-- 📚 Desenvolvendo com **React, typeScript e Tailwind** e aplicando boas praticas de desenvolvimento de Software
+- 📚 Desenvolvendo com **React, typeScript e Tailwind** e aplicando boas praticas de desenvolvimento de Software e tambem focando no desenvolvimento back end em Api Rest com **Node.js**
 - 🤝 Aberto a **freelas**, **projetos colaborativos** e **oportunidades de estágio**
 
 ---
