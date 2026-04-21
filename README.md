@@ -1,19 +1,26 @@
-## Olá, eu sou o Vinicius Arruda 🖐️
-
+<div align="center">
+<h1>Olá, eu sou o Vinicius Arruda 🖐️</h1>
+ 
 ![Localização](https://img.shields.io/badge/Localização-Brasil-green?style=flat-square&logo=googlemaps&logoColor=white)
 ![Idioma](https://img.shields.io/badge/Idioma-Português%20(Nativo)-blue?style=flat-square)
-
+![Status](https://img.shields.io/badge/Status-Disponível%20para%20Oportunidades-brightgreen?style=flat-square)
+ 
+</div>
+ 
 ### 🧑‍💻 Sobre mim
-Sou acadêmico de **Sistemas de Informação na Universidade Franciscana (UFN)**, atualmente no **5º semestre**. Meu foco principal é o ecossistema **Frontend (React.js, TypeScript e Tailwind CSS)**, mantendo um estudo constante em **Backend** para consolidar minha base técnica e evoluir como **Desenvolvedor Full Stack**.
-Desde o início da minha formação, venho consolidando minha base em lógica de programação e compreensão de sistemas. Além disso, trago comigo os valores de **disciplina e resiliência** consolidados durante meu tempo no **Exército Brasileiro**, características que hoje aplico na resolução de problemas técnicos e na organização do meu fluxo de desenvolvimento de software.
-
+ 
+Sou acadêmico de **Sistemas de Informação na Universidade Franciscana (UFN)**, atualmente no **5º semestre**. Meu foco principal está no ecossistema **Frontend** com **React.js, TypeScript e Tailwind CSS**, e venho expandindo minha atuação no **Backend** com construção de **APIs REST** usando **Node.js** e **Java**, evoluindo como **Desenvolvedor Full Stack**.
+ 
+Desde o início da minha formação, venho consolidando minha base em lógica de programação e arquitetura de sistemas. Trago comigo os valores de **disciplina e resiliência** do meu tempo no **Exército Brasileiro** — características que aplico diariamente na resolução de problemas técnicos e na organização do meu fluxo de desenvolvimento.
+ 
 ---
-
+ 
 ### 🔭 Atualmente
-
-- 📚 Desenvolvendo com **React, typeScript e Tailwind** e aplicando boas praticas de desenvolvimento de Software e tambem focando no desenvolvimento back end em Api Rest com **Node.js**
+ 
+- ⚛️ Desenvolvendo interfaces modernas com **React, TypeScript e Tailwind CSS**, aplicando boas práticas como **componentização, clean code e responsividade**
+- 🔗 Construindo **APIs REST** com **Node.js** e **Java**, integrando com bancos de dados relacionais via **Prisma / PostgreSQL**
+- 📖 Aprofundando conhecimentos em **arquitetura de software**, **design patterns** e fluxo **Full Stack**
 - 🤝 Aberto a **freelas**, **projetos colaborativos** e **oportunidades de estágio**
-
 ---
 
 ### ⚙️ Stacks e Tecnologias
@@ -22,14 +29,14 @@ Desde o início da minha formação, venho consolidando minha base em lógica de
 </div>
 
 ### 📊 Estatísticas GitHub
+ 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ViniciusSavianDeArruda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&langs_count=10&theme=tokyonight&hide=css,scss,jupyter%20notebook&show_icons=true"/>
 </div>
-
----
-
+ 
 ### 📫 Vamos nos conectar?
+ 
 <div align="left">
   <a href="https://www.linkedin.com/in/arrudavinicius/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
