@@ -16,11 +16,13 @@ Desde o início da minha formação, venho consolidando minha base em lógica de
 ---
  
 ### 🔭 Atualmente
- 
+
 - ⚛️ Desenvolvendo interfaces modernas com **React, TypeScript e Tailwind CSS**, aplicando boas práticas como **componentização, clean code e responsividade**
 - 🔗 Construindo **APIs REST** com **Node.js** e **Java**, integrando com bancos de dados relacionais via **Prisma / PostgreSQL**
-- 📖 Aprofundando conhecimentos em **arquitetura de software**, **design patterns** e fluxo **Full Stack**
+- 🏗️ Aprofundando conhecimentos em **arquitetura MVC** e **arquitetura em camadas**, aplicando separação de responsabilidades e organização escalável de projetos **Full Stack**
+- 📖 Estudando **design patterns** e boas práticas de **arquitetura de software**
 - 🤝 Aberto a **freelas**, **projetos colaborativos** e **oportunidades de estágio**
+
 ---
 
 ### ⚙️ Stacks e Tecnologias
