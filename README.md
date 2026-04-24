@@ -1,6 +1,8 @@
 <div align="center">
 <h1>Olá, eu sou o Vinicius Arruda 🖐️</h1>
  
+`Developer Full Stack` · `1,5+ Years of Experience` · `React · Node.js · TypeScript · Prisma · Docker`  
+ 
 ![Localização](https://img.shields.io/badge/Localização-Brasil-green?style=flat-square&logo=googlemaps&logoColor=white)
 ![Idioma](https://img.shields.io/badge/Idioma-Português%20(Nativo)-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Disponível%20para%20Oportunidades-brightgreen?style=flat-square)
@@ -36,7 +38,8 @@ Desde o início da minha formação, venho consolidando minha base em lógica de
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ViniciusSavianDeArruda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&langs_count=10&theme=tokyonight&hide=css,scss,jupyter%20notebook&show_icons=true"/>
 </div>
- 
+
+
 ### 📫 Vamos nos conectar?
  
 <div align="left">
