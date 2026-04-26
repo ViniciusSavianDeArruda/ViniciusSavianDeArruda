@@ -36,7 +36,7 @@ Desde o início da minha formação, venho consolidando minha base em lógica de
  
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ViniciusSavianDeArruda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&langs_count=10&theme=tokyonight&hide=css,scss,jupyter%20notebook&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&langs_count=10&theme=tokyonight&hide=html,css,scss,jupyter%20notebook&show_icons=true"/>
 </div>
 
 
