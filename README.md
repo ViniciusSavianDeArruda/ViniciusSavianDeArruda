@@ -29,7 +29,7 @@ Desde o início da minha formação, venho consolidando minha base em lógica de
 
 ### ⚙️ Stacks e Tecnologias
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,tailwind,js,java,spring boot,html,css,prisma,postgres,docker,python,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,tailwind,js,java,html,css,prisma,postgres,docker,python,git&theme=dark" />
 </div>
 
 ### 📊 Estatísticas GitHub
