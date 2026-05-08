@@ -11,7 +11,7 @@
  
 ### 🧑‍💻 Sobre mim
  
-Sou acadêmico de **Sistemas de Informação na Universidade Franciscana (UFN)**, atualmente no **5º semestre**. Meu foco principal está no ecossistema **Frontend** com **React.js, TypeScript e Tailwind CSS**, e venho expandindo minha atuação no **Backend** com construção de **APIs REST** usando **Node.js** e **Java**, evoluindo como **Desenvolvedor Full Stack**.
+Sou acadêmico de **Sistemas de Informação na Universidade Franciscana (UFN)**, atualmente no **5º semestre**. Meu foco principal está no ecossistema **Frontend** com **React.js, TypeScript e Tailwind CSS**, e venho expandindo minha atuação no **Backend** com construção de **APIs REST** usando **Node.js**, evoluindo como **Desenvolvedor Full Stack**.
  
 Desde o início da minha formação, venho consolidando minha base em lógica de programação e arquitetura de sistemas. Trago comigo os valores de **disciplina e resiliência** do meu tempo no **Exército Brasileiro** — características que aplico diariamente na resolução de problemas técnicos e na organização do meu fluxo de desenvolvimento.
  
