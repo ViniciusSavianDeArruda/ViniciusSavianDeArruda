@@ -11,7 +11,7 @@ Developer Full Stack · 1,5+ Years of Experience · React · Node.js · TypeScri
  
 ### Sobre mim
  
-Sou acadêmico de *Sistemas de Informação na Universidade Franciscana (UFN), atualmente no **5º semestre. Meu foco principal está no ecossistema **Frontend* com *React.js, TypeScript e Tailwind CSS, e venho expandindo minha atuação no **Backend* com construção de *APIs REST* usando *Node.js*.
+Sou acadêmico de **Sistemas de Informação na Universidade Franciscana (UFN)**, atualmente no **5º semestre**. Meu foco principal está no ecossistema **Frontend** com **React.js**, **TypeScript** e **Tailwind CSS**, e venho expandindo minha atuação no **Backend** com construção de **APIs REST** usando **Node.js**.
 
 Desde o início da minha formação, venho consolidando minha base em lógica de programação e arquitetura de sistemas. 
  
@@ -19,11 +19,11 @@ Desde o início da minha formação, venho consolidando minha base em lógica de
  
 ### Atualmente
 
-- ⚛️ Desenvolvendo interfaces modernas com *React, TypeScript e Tailwind CSS, aplicando boas práticas como **componentização, clean code e responsividade*
-- 🔗 Construindo *APIs REST* com *Node.js, **TypeScript* com *Express, integrando com bancos de dados relacionais via **Prisma / PostgreSQL*
-- 🏗️ Trabalhando e aprofundando conhecimentos em *arquitetura MVC* e *arquitetura em camadas, aplicando separação de responsabilidades e organização escalável de projetos **Full Stack*
-- 📖 Estudando *principios solid, **clean code* e boas práticas de *arquitetura de software*
-- 🤝 Aberto a *freelas, **projetos colaborativos* e *oportunidades de estágio*
+- ⚛️ Desenvolvendo interfaces modernas com **React**, **TypeScript** e **Tailwind CSS**, aplicando boas práticas como **componentização**, **clean code e responsividade**
+- 🔗 Construindo **APIs REST** com **Node.js**, **TypeScript** com **Express**, integrando com bancos de dados relacionais via **Prisma / PostgreSQL**
+- 🏗️ Trabalhando e aprofundando conhecimentos em **arquitetura MVC** e **arquitetura em camadas**, aplicando separação de responsabilidades e organização escalável de projetos **Full Stack**
+- 📖 Estudando **principios SOLID**, **clean code** e boas práticas de **arquitetura de software**
+- 🤝 Aberto a freelas, projetos colaborativos e oportunidades de estágio
 
 ---
 
