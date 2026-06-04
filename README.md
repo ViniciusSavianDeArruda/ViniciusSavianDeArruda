@@ -45,15 +45,6 @@ Sou acadêmico de **Sistemas de Informação na Universidade Franciscana (UFN)**
 
 ---
 
-### 📌 Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| [**Nome do Projeto**](https://github.com/ViniciusSavianDeArruda/repo) | Uma frase do que ele faz e o problema que resolve. | React · TS · Node |
-| [**Outro Projeto**](https://github.com/ViniciusSavianDeArruda/repo) | Breve descrição do projeto. | Node · Prisma · PostgreSQL |
-
----
-
 ### ⚙️ Stacks e Tecnologias
 
 <div align="left">
@@ -91,16 +82,4 @@ Sou acadêmico de **Sistemas de Informação na Universidade Franciscana (UFN)**
   <a href="https://github.com/ViniciusSavianDeArruda" target="_blank">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
   </a>
-</div>
-
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusSavianDeArruda/ViniciusSavianDeArruda/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniciusSavianDeArruda/ViniciusSavianDeArruda/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/ViniciusSavianDeArruda/ViniciusSavianDeArruda/output/github-contribution-grid-snake.svg" />
-</picture>
-
 </div>
