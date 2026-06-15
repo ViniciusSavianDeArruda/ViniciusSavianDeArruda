@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Olá, eu sou o Vinicius Arruda 🖐️</h1>
  
- ``Developer Full Stack · 1,5+ Years of Experience`` ``React · Node.js · TypeScript · Prisma · Docker``
+``Developer Full Stack · Python · SQL · Data`` ``React · Node.js · TypeScript · Python · PostgreSQL``
  
 ![Localização](https://img.shields.io/badge/Localização-Brasil-green?style=flat-square&logo=googlemaps&logoColor=white)
 ![Idioma](https://img.shields.io/badge/Idioma-Português%20(Nativo)-blue?style=flat-square)
@@ -11,10 +11,7 @@
  
 ### Sobre mim
  
-Sou acadêmico de **Sistemas de Informação na Universidade Franciscana (UFN)**, atualmente no **5º semestre**. Meu foco principal está no ecossistema **Frontend** com **React.js**, **TypeScript** e **Tailwind CSS**, e venho expandindo minha atuação no **Backend** com construção de **APIs REST** usando **Node.js**.
-
-Desde o início da minha formação, venho consolidando minha base em lógica de programação e arquitetura de sistemas. 
- 
+Acadêmico de Sistemas de Informação na UFN (5º semestre). Atuo como Full Stack com React, Node.js e TypeScript, e também trabalho com Python (Pandas, análise de dados, automação), SQL e modelagem de banco de dados relacional com PostgreSQL. Interesse em web, dados, automação e arquitetura de software.
 ---
  
 ### Atualmente
