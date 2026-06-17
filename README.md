@@ -30,7 +30,7 @@ Acadêmico de Sistemas de Informação na UFN (5º semestre), com experiência e
 ### Estatísticas GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ViniciusSavianDeArruda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&langs_count=10&theme=tokyonight&hide=html,css,scss,jupyter%20notebook&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&langs_count=10&theme=tokyonight&hide=html,css,scss,jupyter%20notebook,c%2B%2B&show_icons=true"/>
 </div>
  
 ### Vamos nos conectar?
