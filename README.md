@@ -1,7 +1,7 @@
 <div align="center">
-<h1>Olá, eu sou o Vinicius Arruda</h1>
+<h1>👋 Olá, eu sou o Vinicius Arruda</h1>
  
-``Developer Full Stack · Python · SQL · Data`` ``React · Node.js · TypeScript ·  PostgreSQL``
+``Developer Full Stack · Python · SQL · Data`` ``React · Node.js · TypeScript · PostgreSQL``
  
 ![Localização](https://img.shields.io/badge/Localização-Brasil-green?style=flat-square&logo=googlemaps&logoColor=white)
 ![Idioma](https://img.shields.io/badge/Idioma-Português%20(Nativo)-blue?style=flat-square)
@@ -16,9 +16,14 @@ Acadêmico de Sistemas de Informação na UFN (5º semestre), com experiência e
 - Desenvolvendo interfaces modernas com **React**, **TypeScript** e **Tailwind CSS**, aplicando boas práticas como **componentização**, **clean code** e **responsividade**
 - Construindo **APIs REST** com **Node.js** e **TypeScript** (Express), integrando com bancos de dados relacionais via **Prisma / PostgreSQL**
 - Desenvolvendo projetos de **análise de dados e automação com Python** (Pandas, ETL e visualização)
-- Aprofundando conhecimentos em **arquitetura MVC** e **em camadas**, com separação de responsabilidades e organização escalável
-- Estudando **princípios SOLID**, **clean code** e boas práticas de **arquitetura de software**
+- Estudando **princípios SOLID**, **clean code** e boas práticas de **arquitetura de software** (MVC e em camadas)
 - Aberto a projetos colaborativos e oportunidades de estágio
+
+### Áreas de interesse
+- Desenvolvimento Full Stack e arquitetura de software
+- Análise de dados e automação de processos
+- Inteligência Artificial aplicada a sistemas reais
+- Sistemas de gestão com foco em valor de negócio
  
 ---
  
