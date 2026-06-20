@@ -29,7 +29,7 @@ Acadêmico de Sistemas de Informação na UFN (5º semestre), com experiência e
  
 ### Stacks e Tecnologias
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,python,tailwind,js,java,html,css,prisma,postgres,docker,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,python,tailwind,js,java,prisma,postgres,docker,git&theme=dark" />
 </div>
  
 ### Estatísticas GitHub
