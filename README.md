@@ -9,7 +9,7 @@
 
  
 </div>
- 
+ oi
 ### Sobre mim
 Acadêmico de Sistemas de Informação na UFN (5º semestre), com experiência em desenvolvimento Full Stack utilizando React, Node.js e TypeScript. Possuo conhecimentos em Python, com foco em análise de dados, automação e manipulação de dados utilizando Pandas. Também atuo com SQL, modelagem de bancos de dados relacionais e PostgreSQL. Tenho interesse nas áreas de desenvolvimento web, ciência e análise de dados, automação de processos e arquitetura de software, buscando constante evolução técnica e profissional.
  
