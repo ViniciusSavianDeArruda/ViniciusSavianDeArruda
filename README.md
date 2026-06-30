@@ -3,9 +3,6 @@
 
 ``Developer Full Stack · Python · SQL · Data`` ``React · Node.js · TypeScript · PostgreSQL``
 
-![Localização](https://img.shields.io/badge/Localização-Brasil-green?style=flat-square&logo=googlemaps&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Disponível%20para%20Oportunidades-brightgreen?style=flat-square)
-
 </div>
 
 ### Sobre mim
