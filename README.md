@@ -1,19 +1,15 @@
 <div align="center">
-
 <h1>👋 Olá, eu sou o Vinicius Arruda</h1>
 
 ``Developer Full Stack · Python · SQL · Data`` ``React · Node.js · TypeScript · PostgreSQL``
-
 </div>
 
 ---
 
 ### 👨‍💻 Sobre mim
-
 Acadêmico de **Sistemas de Informação** na UFN (5º semestre). Atuo no **Full Stack** com foco em desenvolvimento web, **análise de dados** e **automação**, sempre buscando evolução técnica e boas práticas de arquitetura.
 
 ### 🚀 Atualmente
-
 - Desenvolvendo interfaces modernas com **React**, **TypeScript** e **Tailwind CSS**, aplicando boas práticas como **componentização**, **clean code** e **responsividade**
 - Construindo **APIs REST** com **Node.js, Express, Fastify** integradas via **Prisma / PostgreSQL**
 - Desenvolvendo projetos de **análise de dados e automação com Python** (Pandas, ETL e visualização)
@@ -21,33 +17,39 @@ Acadêmico de **Sistemas de Informação** na UFN (5º semestre). Atuo no **Full
 - Aberto a projetos colaborativos e oportunidades de estágio
 
 ### 🌎 Experiência Internacional
-
 - 🇨🇴 **Mobilidade Acadêmica Virtual na Colômbia** 
 
 ### 🎯 Áreas de interesse
-
 `Full Stack` · `Arquitetura de software` · `Análise de dados e automação` · `IA aplicada` · `Sistemas de gestão`
 
 ---
 
 ### 🛠️ Stacks e Tecnologias
 
+#### 🔧 Ferramentas
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,tailwind,java,prisma,postgres,docker,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,postman,git&theme=dark" />
+</div>
+
+#### 💻 Backend & Linguagens de Programação
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs&theme=dark" />
+</div>
+
+#### 🌐 Frontend & Bancos de Dados
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,prisma,postgres,mysql&theme=dark" />
 </div>
 
 ### 📊 Estatísticas GitHub
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats-six-alpha-69.vercel.app/api?username=ViniciusSavianDeArruda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <div align="center">
   <img height="180em" src="https://github-readme-stats-six-alpha-69.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&langs_count=10&theme=tokyonight&hide=html,css,scss,jupyter%20notebook,c%2B%2B&show_icons=true"/>
 </div>
 
 ---
 
 ### 🤝 Vamos nos conectar?
-
 <div align="left">
   <a href="https://www.linkedin.com/in/arrudavinicius/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
