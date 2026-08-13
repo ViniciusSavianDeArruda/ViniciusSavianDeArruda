@@ -23,7 +23,7 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🎓 Graduando em **Sistemas de Informação** pela Universidade Franciscana (UFN) — 5º semestre
+- 🎓 Graduando em **Sistemas de Informação** pela Universidade Franciscana (UFN) — 6º semestre
 - 💻 Atuo como desenvolvedor **Full Stack**, com foco em construir aplicações web bem estruturadas
 - 🐍 Também exploro **análise de dados e automação com Python**
 - ⚙️ Interesse crescente em **DevOps, CI/CD e automação de pipelines**
