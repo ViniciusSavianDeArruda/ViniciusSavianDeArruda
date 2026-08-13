@@ -1,7 +1,21 @@
 <div align="center">
+
 <h1>👋 Olá, eu sou o Vinicius Arruda</h1>
 
-``Desenvolvedor Full Stack · React · Node.js · TypeScript · PostgreSQL``
+<p>
+  <b>Desenvolvedor de Software · Construindo aplicações web escaláveis com foco em boas práticas de engenharia</b>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/arrudavinicius/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:arrudavinicius283@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+📍 <b>Boca do Monte — Santa Maria, RS · Brasil</b>
 
 </div>
 
@@ -9,69 +23,56 @@
 
 ### 👨‍💻 Sobre mim
 
-Acadêmico de **Sistemas de Informação** na UFN (5º semestre). Foco em desenvolvimento web Full Stack, com interesse crescente em análise de dados e automação com Python.
+- 🎓 Graduando em **Sistemas de Informação** pela Universidade Franciscana (UFN) — 5º semestre
+- 💻 Atuo como desenvolvedor **Full Stack**, com foco em construir aplicações web bem estruturadas
+- 🐍 Também exploro **análise de dados e automação com Python**
+- ⚙️ Interesse crescente em **DevOps, CI/CD e automação de pipelines**
+- 📚 Sempre em busca de aprender novas tecnologias e boas práticas de engenharia de software
+- 🚀 Em busca da primeira oportunidade como **estagiário / desenvolvedor júnior**
+
+### ✈️ Experiência e Mobilidade Global
+
+- 🇨🇴 Mobilidade Acadêmica Virtual — **UNIMINUTO (Colômbia)**
 
 ---
 
-### 🌎 Experiência Internacional
+### 🚀 Foco Atual
 
-🇨🇴 **Mobilidade Acadêmica Virtual — UNIMINUTO (Colômbia)**
-
----
-
-### 🚀 Atualmente
-
-- Construindo interfaces com **React**, **TypeScript** e **Tailwind CSS**
-- Desenvolvendo **APIs REST** com **Node.js**, **Express** e **Fastify**, integradas via **Prisma + PostgreSQL**
-- Estudando boas práticas de arquitetura e princípios SOLID aplicados a projetos reais
-- Aberto a projetos colaborativos e oportunidades de estágio
-
+- Construindo **interfaces modernas** com React, TypeScript e Tailwind CSS
+- Desenvolvendo **APIs REST** com Node.js, Express e Fastify, integradas via Prisma + PostgreSQL
+- Estudando **boas práticas de arquitetura** (MVC, camadas, princípios SOLID)
+- Aprofundando conhecimentos em **testes automatizados e Docker**
+- Praticando **análise de dados** com Python (Pandas, ETL)
 
 ---
 
 ### 🛠️ Stacks e Tecnologias
 
-#### Linguagens
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java&theme=dark" />
-</div>
+**Linguagens & Frameworks**
 
-#### Backend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,prisma&theme=dark" />
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-#### Frontend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
-</div>
+**Banco de Dados & Ferramentas**
 
-#### Bancos de Dados
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
-</div>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-#### Ferramentas
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,postman,git&theme=dark" />
-</div>
+---
 
 ### 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-six-alpha-69.vercel.app/api?username=ViniciusSavianDeArruda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-six-alpha-69.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&langs_count=10&theme=tokyonight&hide=html,css,scss,jupyter%20notebook,c%2B%2B&show_icons=true"/>
-</div>
-
----
-
-### 🤝 Vamos nos conectar?
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/arrudavinicius/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
-  </a>
-  <a href="mailto:arrudavinicius283@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
-  </a>
+  <img height="165" src="https://github-readme-stats-six-alpha-69.vercel.app/api?username=ViniciusSavianDeArruda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats-six-alpha-69.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&langs_count=10&theme=tokyonight&hide=html,css,scss,jupyter%20notebook,c%2B%2B&show_icons=true"/>
 </div>
