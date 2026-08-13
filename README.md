@@ -28,7 +28,6 @@
 - 🐍 Também exploro **análise de dados e automação com Python**
 - ⚙️ Interesse crescente em **DevOps, CI/CD e automação de pipelines**
 - 📚 Sempre em busca de aprender novas tecnologias e boas práticas de engenharia de software
-- 🚀 Em busca da primeira oportunidade como **estagiário / desenvolvedor júnior**
 
 ### ✈️ Experiência e Mobilidade Global
 
