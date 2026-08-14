@@ -24,10 +24,12 @@
 ### 👨‍💻 Sobre mim
 
 - 🎓 Graduando em **Sistemas de Informação** pela Universidade Franciscana (UFN) — 6º semestre
-- 💻 Atuo como desenvolvedor **Full Stack**, com foco em construir aplicações web bem estruturadas
-- 🐍 Também exploro **análise de dados e automação com Python**
+- 💻 Atuo como desenvolvedor **Full Stack** e com **banco de dados e SQL**
+- 🐍 Também trabalho com **Python** aplicado a análise de dados, ETL e automação
 - ⚙️ Interesse crescente em **DevOps, CI/CD e automação de pipelines**
 - 📚 Sempre em busca de aprender novas tecnologias e boas práticas de engenharia de software
+
+---
 
 ### ✈️ Experiência e Mobilidade Global
 
