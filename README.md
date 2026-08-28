@@ -75,5 +75,5 @@
 
 <div align="center">
   <img height="170" src="https://github-readme-stats-six-alpha-69.vercel.app/api?username=ViniciusSavianDeArruda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats-six-alpha-69.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&langs_count=10&theme=tokyonight&hide=html,css,scss,c%2B%2B,C%23,dockerfile,make,mako&show_icons=true"/>
+  <!--<img height="170" src="https://github-readme-stats-six-alpha-69.vercel.app/api/top-langs/?username=ViniciusSavianDeArruda&layout=compact&langs_count=10&theme=tokyonight&hide=html,css,scss,c%2B%2B,C%23,dockerfile,make,mako&show_icons=true"/>-->
 </div>
