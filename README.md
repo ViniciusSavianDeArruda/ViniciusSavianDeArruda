@@ -64,10 +64,10 @@
   <img align="left" title="Node JS" alt="Node JS" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </a>
 <a href="https://expressjs.com" target="_blank">
-  <img align="left" title="Express" alt="Express" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img align="left" title="Express" alt="Express" width="45px" src="https://cdn.simpleicons.org/express/FFFFFF" />
 </a>
 <a href="https://www.fastify.io" target="_blank">
-  <img align="left" title="Fastify" alt="Fastify" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" />
+  <img align="left" title="Fastify" alt="Fastify" width="45px" src="https://cdn.simpleicons.org/fastify/FFFFFF" />
 </a>
 <a href="https://pt-br.reactjs.org" target="_blank">
   <img align="left" title="React" alt="React" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -76,7 +76,7 @@
   <img align="left" title="Tailwind Css" alt="Tailwind Css" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
 </a>
 <a href="https://www.prisma.io" target="_blank">
-  <img align="left" title="Prisma" alt="Prisma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
+  <img align="left" title="Prisma" alt="Prisma" width="40px" src="https://cdn.simpleicons.org/prisma/FFFFFF" />
 </a>
 
 <br clear="left"/>
