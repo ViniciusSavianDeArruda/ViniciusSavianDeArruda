@@ -3,7 +3,7 @@
 <h1>👋 Olá, eu sou o Vinicius Arruda</h1>
 
 <p>
-  <b>Desenvolvedor de Software · Construindo aplicações web escaláveis com foco em boas práticas de engenharia</b>
+  <b>Desenvolvedor de Software Full Stack · Banco de Dados & Análise de Dados com Python</b>
 </p>
 
 <p>
@@ -23,12 +23,11 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🎓 Graduando em **Sistemas de Informação** pela Universidade Franciscana (UFN) — 6º semestre
-- 💻 Atuo como desenvolvedor **Full Stack** e com **banco de dados e SQL**
-- 🐍 Também trabalho com **Python** aplicado a análise de dados, ETL e automação
-- ⚙️ Interesse crescente em **DevOps, CI/CD e automação de pipelines**
-- 📚 Sempre em busca de aprender novas tecnologias e boas práticas de engenharia de software
-
+- 🎓 Graduando em Sistemas de Informação pela Universidade Franciscana (UFN) — 6º semestre
+- 🗄️ Tenho experiência prática em banco de dados relacional e SQL, desde modelagem até consultas avançadas
+- 🐍 Gosto de trabalhar com dados — seja estruturando um banco ou tratando dados com Python
+- 💻 Também desenvolvo aplicações Full Stack, unindo back-end, front-end e boas práticas de engenharia
+- 📚 Sempre em busca de aprender e evoluir como desenvolvedor
 ---
 
 ### ✈️ Experiência e Mobilidade Global
@@ -39,12 +38,11 @@
 
 ### 🚀 Foco Atual
 
-- Construindo **interfaces modernas** com React, TypeScript e Tailwind CSS
-- Desenvolvendo **APIs REST** com Node.js, Express e Fastify, integradas via Prisma + PostgreSQL
-- Estudando **boas práticas de arquitetura** (MVC, camadas, princípios SOLID)
-- Aprofundando conhecimentos em **testes automatizados e Docker**
-- Praticando **análise de dados** com Python (Pandas, ETL)
-
+- 🗄️ Aprofundando SQL: stored procedures, triggers e transações
+- 🐍 Praticando migração e tratamento de dados com Python e Pandas (limpeza, ETL, exportação JSON)
+- 💻 Construindo interfaces com React, TypeScript e Tailwind CSS
+- ⚙️ Desenvolvendo APIs REST com Node.js e Fastify, integradas via Prisma + PostgreSQL
+- 📊 Estudando princípios SOLID e arquitetura em camadas
 ---
 
 ### 🛠️ Stacks e Tecnologias
