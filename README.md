@@ -24,26 +24,16 @@
 ### 👨‍💻 Sobre mim
 
 - 🎓 Graduando em Sistemas de Informação pela Universidade Franciscana (UFN) — 6º semestre
-- 💻 Desenvolvo aplicações Full Stack, unindo back-end, front-end e boas práticas de engenharia de software
-- 🗄️ Experiência complementar em banco de dados relacional e SQL avançado (modelagem, stored procedures, triggers)
+- 💻 Desenvolvo aplicações Full Stack com Node.js, React e TypeScript, aplicando arquitetura em camadas e princípios SOLID
+- ⚙️ Construo APIs REST com Node.js e Fastify, integradas via Prisma + PostgreSQL
+- 🗄️ Experiência complementar em banco de dados relacional e SQL (modelagem, stored procedures, triggers)
 - 🐍 Também aplico Python em tratamento e análise de dados
 - 📚 Sempre em busca de aprender e evoluir como desenvolvedor
-
 ---
 
 ### ✈️ Experiência e Mobilidade Global
 
 - 🇨🇴 Mobilidade Acadêmica Virtual — **UNIMINUTO (Colômbia)**
-
----
-
-### 🚀 Foco Atual
-
-- 💻 Construindo interfaces com React, TypeScript e Tailwind CSS
-- ⚙️ Desenvolvendo APIs REST com Node.js e Fastify, integradas via Prisma + PostgreSQL
-- 📊 Estudando princípios SOLID e arquitetura em camadas
-- 🗄️ Aprofundando SQL avançado: stored procedures, triggers e transações
-- 🐍 Praticando tratamento e análise de dados com Python e Pandas
 
 ---
 
