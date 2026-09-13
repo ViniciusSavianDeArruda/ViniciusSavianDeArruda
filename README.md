@@ -3,7 +3,7 @@
 <h1>👋 Olá, eu sou o Vinicius Arruda</h1>
 
 <p>
-  <b>Desenvolvedor Full Stack · Node.js, React & TypeScript</b>
+  <b>Desenvolvedor de Softwar</b>
 </p>
 
 <p>
