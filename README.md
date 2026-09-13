@@ -3,7 +3,7 @@
 <h1>👋 Olá, eu sou o Vinicius Arruda</h1>
 
 <p>
-  <b>Desenvolvedor de Softwar</b>
+  <b>Desenvolvedor de Software</b>
 </p>
 
 <p>
