@@ -27,6 +27,7 @@
 - 💻 Desenvolvo aplicações Full Stack com Node.js, React e TypeScript, aplicando arquitetura em camadas e princípios SOLID
 - ⚙️ Construo APIs REST com Node.js e Fastify, integradas via Prisma + PostgreSQL
 - 🗄️ Experiência complementar em banco de dados relacional e SQL (modelagem, stored procedures, triggers)
+- ☁️ Atualmente participo do AWS Builder Center, aprofundando meus conhecimentos em computação em nuvem e serviços AWS
 - 🐍 Também aplico Python em tratamento e análise de dados
 - 📚 Sempre em busca de aprender e evoluir como desenvolvedor
 ---
