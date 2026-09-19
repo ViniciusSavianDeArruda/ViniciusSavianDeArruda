@@ -3,7 +3,7 @@
 <h1>👋 Olá, eu sou o Vinicius Arruda</h1>
 
 <p>
-  <b>Desenvolvedor de Software</b>
+  <b>Desenvolvedor de Software
 </p>
 
 <p>
@@ -24,12 +24,15 @@
 ### 👨‍💻 Sobre mim
 
 - 🎓 Graduando em Sistemas de Informação pela Universidade Franciscana (UFN) — 6º semestre
-- 💻 Desenvolvo aplicações Full Stack com Node.js, React e TypeScript, aplicando arquitetura em camadas e princípios SOLID
-- ⚙️ Construo APIs REST com Node.js e Fastify, integradas via Prisma + PostgreSQL
+- 💻 Desenvolvo aplicações Full Stack com Node.js/React/TypeScript e Python/FastAPI, aplicando arquitetura em camadas e princípios SOLID
+- 🚀 Mantenho o Facilita OAB em produção: app full stack (FastAPI + React) com IA generativa integrada e usuária ativa real
+- ⚙️ Construo APIs REST tanto com Node.js/Fastify (Prisma + PostgreSQL) quanto com Python/FastAPI (SQLAlchemy + PostgreSQL)
+- 🐳 Aprofundando conhecimento em Docker e containerização (uso ativo em projetos, estudando orquestração)
+- 🐍 Conhecimento em Python pra tratamento e análise de dados (pandas), com interesse em aprofundar na área
 - 🗄️ Experiência complementar em banco de dados relacional e SQL (modelagem, stored procedures, triggers)
 - ☁️ Atualmente participo do AWS Builder Center, aprofundando meus conhecimentos em computação em nuvem e serviços AWS
-- 🐍 Também aplico Python em tratamento e análise de dados
 - 📚 Sempre em busca de aprender e evoluir como desenvolvedor
+
 ---
 
 ### ✈️ Experiência e Mobilidade Global
@@ -40,7 +43,7 @@
 
 ### 🛠️ Stacks e Tecnologias
 
-**Linguagens & Frameworks**
+**Uso no dia a dia**
 
 <a href="https://www.javascript.com" target="_blank">
   <img align="left" title="JavaScript" alt="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -54,6 +57,27 @@
 <a href="https://pt-br.reactjs.org" target="_blank">
   <img align="left" title="React" alt="React" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </a>
+<a href="https://www.python.org" target="_blank">
+  <img align="left" title="Python" alt="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</a>
+<a href="https://fastapi.tiangolo.com" target="_blank">
+  <img align="left" title="FastAPI" alt="FastAPI" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+</a>
+<a href="https://www.postgresql.org" target="_blank">
+  <img align="left" title="PostgreSQL" alt="PostgreSQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+</a>
+<a href="https://www.docker.com" target="_blank">
+  <img align="left" title="Docker" alt="Docker" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+</a>
+<a href="https://git-scm.com" target="_blank">
+  <img align="left" title="Git" alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</a>
+
+<br clear="left"/>
+<br/>
+
+**Já utilizei em projetos**
+
 <a href="https://expressjs.com" target="_blank">
   <img align="left" title="Express" alt="Express" width="45px" src="https://cdn.simpleicons.org/express/FFFFFF" />
 </a>
@@ -66,29 +90,11 @@
 <a href="https://www.prisma.io" target="_blank">
   <img align="left" title="Prisma" alt="Prisma" width="40px" src="https://cdn.simpleicons.org/prisma/FFFFFF" />
 </a>
-<a href="https://www.python.org" target="_blank">
-  <img align="left" title="Python" alt="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</a>
-
-<br clear="left"/>
-<br/>
-
-**Banco de Dados & Ferramentas**
-
-<a href="https://www.postgresql.org" target="_blank">
-  <img align="left" title="PostgreSQL" alt="PostgreSQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-</a>
 <a href="https://www.mysql.com" target="_blank">
   <img align="left" title="MySQL" alt="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </a>
-<a href="https://www.docker.com" target="_blank">
-  <img align="left" title="Docker" alt="Docker" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-</a>
 <a href="https://www.postman.com" target="_blank">
   <img align="left" title="Postman" alt="Postman" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
-</a>
-<a href="https://git-scm.com" target="_blank">
-  <img align="left" title="Git" alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </a>
 
 <br clear="left"/>
@@ -100,3 +106,4 @@
 <div align="center">
   <img height="170" src="https://github-readme-stats-six-alpha-69.vercel.app/api?username=ViniciusSavianDeArruda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
+</markdown>
