@@ -69,6 +69,9 @@
 <a href="https://www.docker.com" target="_blank">
   <img align="left" title="Docker" alt="Docker" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </a>
+<a href="https://www.postman.com" target="_blank">
+  <img align="left" title="Postman" alt="Postman" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+</a>
 <a href="https://git-scm.com" target="_blank">
   <img align="left" title="Git" alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </a>
@@ -92,9 +95,6 @@
 </a>
 <a href="https://www.mysql.com" target="_blank">
   <img align="left" title="MySQL" alt="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</a>
-<a href="https://www.postman.com" target="_blank">
-  <img align="left" title="Postman" alt="Postman" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
 </a>
 
 <br clear="left"/>
