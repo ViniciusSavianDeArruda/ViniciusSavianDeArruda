@@ -37,7 +37,9 @@
 
 ### ✈️ Experiência e Mobilidade Global
 
-- 🇨🇴 Mobilidade Acadêmica Virtual — **UNIMINUTO (Colômbia)**
+**UNIMINUTO — Colômbia** | Mobilidade Acadêmica Virtual
+
+Cursando a disciplina de **Big Data e Computação em Nuvem**, ampliando meus conhecimentos em processamento de dados, sistemas distribuídos e tecnologias cloud.
 
 ---
 
