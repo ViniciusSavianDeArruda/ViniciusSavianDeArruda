@@ -3,7 +3,7 @@
 <h1>👋 Olá, eu sou o Vinicius Arruda</h1>
 
 <p>
-  <b>Desenvolvedor de Software
+  <b>Desenvolvedor de Software full stack
 </p>
 
 <p>
