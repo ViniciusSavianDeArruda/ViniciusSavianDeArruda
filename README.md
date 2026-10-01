@@ -86,21 +86,32 @@ Cursando a disciplina de **Big Data e Computação em Nuvem**, ampliando meus co
 <a href="https://expressjs.com" target="_blank">
   <img align="left" title="Express" alt="Express" width="45px" src="https://cdn.simpleicons.org/express/FFFFFF" />
 </a>
+
 <a href="https://www.fastify.io" target="_blank">
   <img align="left" title="Fastify" alt="Fastify" width="45px" src="https://cdn.simpleicons.org/fastify/FFFFFF" />
 </a>
+
 <a href="https://tailwindcss.com" target="_blank">
-  <img align="left" title="Tailwind Css" alt="Tailwind Css" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="left" title="Tailwind CSS" alt="Tailwind CSS" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
 </a>
+
 <a href="https://www.prisma.io" target="_blank">
   <img align="left" title="Prisma" alt="Prisma" width="40px" src="https://cdn.simpleicons.org/prisma/FFFFFF" />
 </a>
+
 <a href="https://www.mysql.com" target="_blank">
   <img align="left" title="MySQL" alt="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </a>
 
-<br clear="left"/>
+<a href="https://www.java.com" target="_blank">
+  <img align="left" title="Java" alt="Java" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</a>
 
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+  <img align="left" title="Spring Boot" alt="Spring Boot" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+</a>
+
+<br clear="left"/>
 ---
 
 ### 📊 Estatísticas GitHub
