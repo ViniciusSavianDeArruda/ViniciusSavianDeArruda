@@ -112,6 +112,7 @@ Cursando a disciplina de **Big Data e Computação em Nuvem**, ampliando meus co
 </a>
 
 <br clear="left"/>
+
 ---
 
 ### 📊 Estatísticas GitHub
