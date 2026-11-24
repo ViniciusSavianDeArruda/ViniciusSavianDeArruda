@@ -3,7 +3,7 @@
 <h1>👋 Olá, eu sou o Vinicius Arruda</h1>
 
 <p>
-  <b>Desenvolvedor de Software full stack
+  <b>Desenvolvedor de Software Full Stack</b>
 </p>
 
 <p>
@@ -30,16 +30,9 @@
 - 🐳 Aprofundando conhecimento em Docker e containerização (uso ativo em projetos, estudando orquestração)
 - 🐍 Conhecimento em Python pra tratamento e análise de dados (pandas), com interesse em aprofundar na área
 - 🗄️ Experiência complementar em banco de dados relacional e SQL (modelagem, stored procedures, triggers)
-- ☁️ Atualmente participo do AWS Builder Center, aprofundando meus conhecimentos em computação em nuvem e serviços AWS
+- ☁️ Praticando administração de servidores Linux (VPS) e fundamentos de computação em nuvem, explorando Big Data em ambientes cloud
+- 🌎 Mobilidade acadêmica virtual na UNIMINUTO (Colômbia), cursando Big Data e Computação em Nuvem
 - 📚 Sempre em busca de aprender e evoluir como desenvolvedor
-
----
-
-### ✈️ Experiência e Mobilidade Global
-
-**UNIMINUTO — Colômbia** | Mobilidade Acadêmica Virtual
-
-Cursando a disciplina de **Big Data e Computação em Nuvem**, ampliando meus conhecimentos em processamento de dados, sistemas distribuídos e tecnologias cloud.
 
 ---
 
